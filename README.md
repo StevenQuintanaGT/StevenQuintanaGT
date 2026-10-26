@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+  <a href="https://msquintana.com">
+    <img src="logo-steven-quintana.svg" alt="Logo de Steven Quintana" width="110" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/StevenQuintanaGT">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=%24+whoami;Systems+Engineering+Student+%F0%9F%8E%93;Aspiring+Cybersecurity+Engineer+%F0%9F%9B%A1%EF%B8%8F;Networking+%7C+Linux+%7C+Cloud+%E2%98%81%EF%B8%8F;Securing+systems%2C+one+packet+at+a+time" alt="Typing SVG" />
   </a>
