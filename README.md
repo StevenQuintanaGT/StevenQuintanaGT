@@ -98,6 +98,9 @@ motto: "Confusion is part of the process."
   <a href="https://msquintana.com">
     <img src="https://img.shields.io/badge/Portfolio-msquintana.com-61afef?style=for-the-badge&logo=googlechrome&logoColor=61afef&labelColor=21252b" />
   </a>
+  <a href="https://www.linkedin.com/in/msquintana">
+    <img src="https://img.shields.io/badge/LinkedIn-21252b?style=for-the-badge&logo=linkedin&logoColor=61afef" />
+  </a>
   <a href="mailto:steven@msquintana.com">
     <img src="https://img.shields.io/badge/Email-21252b?style=for-the-badge&logo=gmail&logoColor=61afef" />
   </a>
