@@ -16,6 +16,12 @@
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-98c379?style=flat-square&labelColor=282c34" />
 </p>
 
+<p align="center">
+  <a href="https://msquintana.com">
+    <img src="https://img.shields.io/badge/%E2%86%92%20Visit%20my%20portfolio-msquintana.com-61afef?style=for-the-badge&labelColor=21252b&logo=googlechrome&logoColor=61afef" alt="Visit my portfolio" />
+  </a>
+</p>
+
 ---
 
 ### `> cat about_me.yaml`
@@ -29,8 +35,7 @@ focus:
   - Cloud Computing
 currently:
   - Building my skills in Linux, networking and Docker
-  - Running my own domain on Cloudflare
-next:
+  - Running my own domain on Cloudflarenext:
   - Cybersecurity program — IRSI scholarship (2027)
 motto: "Confusion is part of the process."
 ```
@@ -76,11 +81,7 @@ motto: "Confusion is part of the process."
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StevenQuintanaGT&hide_border=true&background=282C34&stroke=3E4451&ring=61AFEF&fire=E5C07B&currStreakNum=FFFFFF&currStreakLabel=61AFEF&sideNums=FFFFFF&sideLabels=ABB2BF&dates=ABB2BF" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenQuintanaGT&bg_color=282c34&color=abb2bf&title_color=ffffff&line=61afef&point=c678dd&area=true&area_color=61afef&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=StevenQuintanaGT&hide_border=true&background=282C34&stroke=3E4451&ring=61AFEF&fire=E5C07B&currStreakNum=FFFFFF&currStreakLabel=61AFEF&sideNums=FFFFFF&sideLabels=ABB2BF&dates=ABB2BF" width="60%" />
 </p>
 
 ---
@@ -89,7 +90,7 @@ motto: "Confusion is part of the process."
 
 <p align="center">
   <a href="https://msquintana.com">
-    <img src="https://img.shields.io/badge/msquintana.com-21252b?style=for-the-badge&logo=googlechrome&logoColor=61afef" />
+    <img src="https://img.shields.io/badge/Portfolio-msquintana.com-61afef?style=for-the-badge&logo=googlechrome&logoColor=61afef&labelColor=21252b" />
   </a>
   <a href="mailto:steven@msquintana.com">
     <img src="https://img.shields.io/badge/Email-21252b?style=for-the-badge&logo=gmail&logoColor=61afef" />
