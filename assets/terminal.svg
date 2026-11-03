@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="374" viewBox="0 0 860 374" role="img" aria-label="Terminal: whoami — Steven Quintana">
+<title>whoami — Steven Quintana</title>
+<style>
+text{font:14px 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+#c0 rect{animation:type0 0.36s steps(6) 0.65s both}@keyframes type0{from{width:181px}to{width:244px}}
+.l0{animation:show .01s 0.40s both}
+.l1{animation:show .25s 1.26s both}
+#c2 rect{animation:type2 0.78s steps(13) 1.69s both}@keyframes type2{from{width:181px}to{width:304px}}
+.l2{animation:show .01s 1.44s both}
+.l3{animation:show .25s 2.72s both}
+#c4 rect{animation:type4 0.48s steps(8) 3.15s both}@keyframes type4{from{width:181px}to{width:261px}}
+.l4{animation:show .01s 2.90s both}
+.l5{animation:show .25s 3.88s both}
+.l6{animation:show .25s 4.06s both}
+.l7{animation:show .25s 4.24s both}
+#c8 rect{animation:type8 0.66s steps(11) 4.67s both}@keyframes type8{from{width:181px}to{width:287px}}
+.l8{animation:show .01s 4.42s both}
+.l9{animation:show .25s 5.58s both}
+.lf{animation:show .01s 5.76s both}
+</style>
+<rect x=".5" y=".5" width="859" height="373" rx="14" fill="#0E1017" stroke="#1E2230"/>
+<path d="M14.5 .5H845.5A14 14 0 0 1 859.5 14.5V44H.5V14.5A14 14 0 0 1 14.5 .5Z" fill="#12141C"/>
+<line x1=".5" y1="44" x2="859.5" y2="44" stroke="#1E2230"/>
+<circle cx="26" cy="22" r="6" fill="#B29AFB"/><circle cx="46" cy="22" r="6" fill="#26D8EB"/><circle cx="66" cy="22" r="6" fill="#4ADE80"/>
+<text x="430" y="27" text-anchor="middle" fill="#7C859A" style="font-size:12px;letter-spacing:.08em">steven@msquintana — zsh</text>
+<clipPath id="c0"><rect x="24" y="66" height="26"/></clipPath>
+<text class="l0" x="28" y="84" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">whoami</tspan></text>
+<text class="l1" x="28" y="110" xml:space="preserve"><tspan fill="#E9EDF5">Steven Quintana</tspan><tspan fill="#7C859A"> · Systems Engineering Student @ Universidad Mariano Gálvez</tspan></text>
+<clipPath id="c2"><rect x="24" y="118" height="26"/></clipPath>
+<text class="l2" x="28" y="136" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">cat focus.txt</tspan></text>
+<text class="l3" x="28" y="162" xml:space="preserve"><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Cybersecurity    </tspan><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Infrastructure    </tspan><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Cloud</tspan></text>
+<clipPath id="c4"><rect x="24" y="170" height="26"/></clipPath>
+<text class="l4" x="28" y="188" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">./now.sh</tspan></text>
+<text class="l5" x="28" y="214" xml:space="preserve"><tspan fill="#26D8EB">› </tspan><tspan fill="#A1A7B6">Building my skills in Linux, networking and Docker</tspan></text>
+<text class="l6" x="28" y="240" xml:space="preserve"><tspan fill="#26D8EB">› </tspan><tspan fill="#A1A7B6">Running my own domain on Cloudflare</tspan></text>
+<text class="l7" x="28" y="266" xml:space="preserve"><tspan fill="#B29AFB">› </tspan><tspan fill="#A1A7B6">Next: Cybersecurity program — IRSI scholarship (2027)</tspan></text>
+<clipPath id="c8"><rect x="24" y="274" height="26"/></clipPath>
+<text class="l8" x="28" y="292" clip-path="url(#c8)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">echo $MOTTO</tspan></text>
+<text class="l9" x="28" y="318" xml:space="preserve"><tspan fill="#FACC15">&quot;Confusion is part of the process.&quot;</tspan></text>
+<g class="lf"><text x="28" y="344" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan></text><rect class="cur" x="209" y="330" width="9" height="18" fill="#22D3EE"/></g>
+</svg>
