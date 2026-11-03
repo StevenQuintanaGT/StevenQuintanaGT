@@ -90,11 +90,19 @@ motto: "Confusion is part of the process."
 ## <img src="assets/brand/symbol.svg" width="26" align="center" /> &nbsp;GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=StevenQuintanaGT&hide_border=true&border_radius=14&background=0E1017&stroke=1E2230&ring=B29AFB&fire=26D8EB&currStreakNum=E9EDF5&currStreakLabel=B29AFB&sideNums=E9EDF5&sideLabels=A1A7B6&dates=7C859A" width="70%" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/streak-light.svg" />
+    <img src="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/streak-dark.svg" alt="GitHub streak" width="70%" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenQuintanaGT&bg_color=0E1017&color=A1A7B6&title_color=E9EDF5&line=B29AFB&point=26D8EB&area=true&area_color=9273EE&hide_border=true&radius=14&custom_title=Contribution%20graph" width="100%" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/graph-light.svg" />
+    <img src="https://raw.githubusercontent.com/StevenQuintanaGT/StevenQuintanaGT/output/graph-dark.svg" alt="Contribution graph" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
