@@ -8,8 +8,8 @@ const token = process.env.GITHUB_TOKEN;
 if (!user || !token) throw new Error("usage: GITHUB_TOKEN=... node activity.mjs <user> [outDir]");
 
 const themes = {
-  dark: { bg: "#0E1017", stroke: "#1E2230", title: "#E9EDF5", text: "#A1A7B6", muted: "#7C859A", accent: "#B29AFB", accent2: "#26D8EB", area: "#9273EE" },
-  light: { bg: "#FFFFFF", stroke: "#E4E7EE", title: "#12141C", text: "#4B5263", muted: "#7C859A", accent: "#8059D9", accent2: "#16B4DA", area: "#B29AFB" },
+  dark: { bg: "#0B1120", stroke: "#24324B", title: "#F8FAFC", text: "#CBD5E1", muted: "#94A3B8", accent: "#A78BFA", accent2: "#22D3EE", area: "#7C3AED" },
+  light: { bg: "#FFFFFF", stroke: "#E2E8F0", title: "#0B1120", text: "#475569", muted: "#64748B", accent: "#6D28D9", accent2: "#0E7490", area: "#A78BFA" },
 };
 
 async function gql(query, variables) {
@@ -71,7 +71,7 @@ function streakSvg(s, t) {
     <text x="${x}" y="140" text-anchor="middle" ${font} font-size="14" fill="${color}">${label}</text>
     <text x="${x}" y="164" text-anchor="middle" ${font} font-size="12" fill="${t.muted}">${sub}</text>`;
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
-  <rect width="${W}" height="${H}" rx="14" fill="${t.bg}"/>
+  <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="14" fill="${t.bg}" stroke="${t.stroke}"/>
   <line x1="165" y1="28" x2="165" y2="170" stroke="${t.stroke}"/>
   <line x1="330" y1="28" x2="330" y2="170" stroke="${t.stroke}"/>
   ${col(82.5, s.total, "Total Contributions", `${s.first ? fmt(s.first) : ""} – Present`, t.text)}
@@ -98,7 +98,7 @@ function graphSvg(days, t) {
     <text x="${L - 12}" y="${y(k * step) + 4}" text-anchor="end" ${font} font-size="12" fill="${t.muted}">${k * step}</text>`).join("");
   const labels = last.map((d, i) => `<text x="${x(i)}" y="${H - B + 22}" text-anchor="middle" ${font} font-size="11" fill="${t.muted}">${Number(d.date.slice(8))}</text>`).join("");
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
-  <rect width="${W}" height="${H}" rx="14" fill="${t.bg}"/>
+  <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="14" fill="${t.bg}" stroke="${t.stroke}"/>
   <text x="${W / 2}" y="40" text-anchor="middle" ${font} font-size="20" font-weight="700" fill="${t.title}">Contribution graph</text>
   ${grid}
   <polygon points="${x(0)},${y(0)} ${pts.join(" ")} ${x(last.length - 1)},${y(0)}" fill="${t.area}" fill-opacity="0.25"/>

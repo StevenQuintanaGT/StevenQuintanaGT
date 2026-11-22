@@ -21,24 +21,24 @@ text{font:14px 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menl
 .l9{animation:show .25s 5.58s both}
 .lf{animation:show .01s 5.76s both}
 </style>
-<rect x=".5" y=".5" width="859" height="373" rx="14" fill="#0E1017" stroke="#1E2230"/>
-<path d="M14.5 .5H845.5A14 14 0 0 1 859.5 14.5V44H.5V14.5A14 14 0 0 1 14.5 .5Z" fill="#12141C"/>
-<line x1=".5" y1="44" x2="859.5" y2="44" stroke="#1E2230"/>
-<circle cx="26" cy="22" r="6" fill="#B29AFB"/><circle cx="46" cy="22" r="6" fill="#26D8EB"/><circle cx="66" cy="22" r="6" fill="#4ADE80"/>
-<text x="430" y="27" text-anchor="middle" fill="#7C859A" style="font-size:12px;letter-spacing:.08em">steven@msquintana — zsh</text>
+<rect x=".5" y=".5" width="859" height="373" rx="14" fill="#0B1120" stroke="#24324B"/>
+<path d="M14.5 .5H845.5A14 14 0 0 1 859.5 14.5V44H.5V14.5A14 14 0 0 1 14.5 .5Z" fill="#0F172A"/>
+<line x1=".5" y1="44" x2="859.5" y2="44" stroke="#24324B"/>
+<circle cx="26" cy="22" r="6" fill="#A78BFA"/><circle cx="46" cy="22" r="6" fill="#22D3EE"/><circle cx="66" cy="22" r="6" fill="#34D399"/>
+<text x="430" y="27" text-anchor="middle" fill="#94A3B8" style="font-size:12px;letter-spacing:.08em">steven@msquintana — zsh</text>
 <clipPath id="c0"><rect x="24" y="66" height="26"/></clipPath>
-<text class="l0" x="28" y="84" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">whoami</tspan></text>
-<text class="l1" x="28" y="110" xml:space="preserve"><tspan fill="#E9EDF5">Steven Quintana</tspan><tspan fill="#7C859A"> · Systems Engineering Student @ Universidad Mariano Gálvez</tspan></text>
+<text class="l0" x="28" y="84" clip-path="url(#c0)" xml:space="preserve"><tspan fill="#A78BFA">steven</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">msquintana</tspan><tspan fill="#94A3B8">:~$ </tspan><tspan fill="#F8FAFC">whoami</tspan></text>
+<text class="l1" x="28" y="110" xml:space="preserve"><tspan fill="#F8FAFC">Steven Quintana</tspan><tspan fill="#94A3B8"> · Computer Technician · Systems Eng. coursework completed (UMG)</tspan></text>
 <clipPath id="c2"><rect x="24" y="118" height="26"/></clipPath>
-<text class="l2" x="28" y="136" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">cat focus.txt</tspan></text>
-<text class="l3" x="28" y="162" xml:space="preserve"><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Cybersecurity    </tspan><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Infrastructure    </tspan><tspan fill="#4ADE80">[+] </tspan><tspan fill="#E9EDF5">Cloud</tspan></text>
+<text class="l2" x="28" y="136" clip-path="url(#c2)" xml:space="preserve"><tspan fill="#A78BFA">steven</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">msquintana</tspan><tspan fill="#94A3B8">:~$ </tspan><tspan fill="#F8FAFC">cat focus.txt</tspan></text>
+<text class="l3" x="28" y="162" xml:space="preserve"><tspan fill="#34D399">[+] </tspan><tspan fill="#F8FAFC">Cybersecurity    </tspan><tspan fill="#34D399">[+] </tspan><tspan fill="#F8FAFC">Networking    </tspan><tspan fill="#34D399">[+] </tspan><tspan fill="#F8FAFC">Cloud</tspan></text>
 <clipPath id="c4"><rect x="24" y="170" height="26"/></clipPath>
-<text class="l4" x="28" y="188" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">./now.sh</tspan></text>
-<text class="l5" x="28" y="214" xml:space="preserve"><tspan fill="#26D8EB">› </tspan><tspan fill="#A1A7B6">Building my skills in Linux, networking and Docker</tspan></text>
-<text class="l6" x="28" y="240" xml:space="preserve"><tspan fill="#26D8EB">› </tspan><tspan fill="#A1A7B6">Running my own domain on Cloudflare</tspan></text>
-<text class="l7" x="28" y="266" xml:space="preserve"><tspan fill="#B29AFB">› </tspan><tspan fill="#A1A7B6">Next: Cybersecurity program — IRSI scholarship (2027)</tspan></text>
+<text class="l4" x="28" y="188" clip-path="url(#c4)" xml:space="preserve"><tspan fill="#A78BFA">steven</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">msquintana</tspan><tspan fill="#94A3B8">:~$ </tspan><tspan fill="#F8FAFC">./now.sh</tspan></text>
+<text class="l5" x="28" y="214" xml:space="preserve"><tspan fill="#22D3EE">› </tspan><tspan fill="#CBD5E1">Fortinet NSE 1 certified · Studying Cisco CCNA 1 (ITN)</tspan></text>
+<text class="l6" x="28" y="240" xml:space="preserve"><tspan fill="#22D3EE">› </tspan><tspan fill="#CBD5E1">Working with Linux, Nmap, Docker, AWS &amp; Cloudflare</tspan></text>
+<text class="l7" x="28" y="266" xml:space="preserve"><tspan fill="#A78BFA">› </tspan><tspan fill="#CBD5E1">Status: Open to roles in cybersecurity, networking &amp; cloud</tspan></text>
 <clipPath id="c8"><rect x="24" y="274" height="26"/></clipPath>
-<text class="l8" x="28" y="292" clip-path="url(#c8)" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan><tspan fill="#E9EDF5">echo $MOTTO</tspan></text>
-<text class="l9" x="28" y="318" xml:space="preserve"><tspan fill="#FACC15">&quot;Confusion is part of the process.&quot;</tspan></text>
-<g class="lf"><text x="28" y="344" xml:space="preserve"><tspan fill="#B29AFB">steven</tspan><tspan fill="#7C859A">@</tspan><tspan fill="#26D8EB">msquintana</tspan><tspan fill="#7C859A">:~$ </tspan></text><rect class="cur" x="209" y="330" width="9" height="18" fill="#22D3EE"/></g>
+<text class="l8" x="28" y="292" clip-path="url(#c8)" xml:space="preserve"><tspan fill="#A78BFA">steven</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">msquintana</tspan><tspan fill="#94A3B8">:~$ </tspan><tspan fill="#F8FAFC">echo $MOTTO</tspan></text>
+<text class="l9" x="28" y="318" xml:space="preserve"><tspan fill="#FBBF24">&quot;Confusion is part of the process.&quot;</tspan></text>
+<g class="lf"><text x="28" y="344" xml:space="preserve"><tspan fill="#A78BFA">steven</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">msquintana</tspan><tspan fill="#94A3B8">:~$ </tspan></text><rect class="cur" x="209" y="330" width="9" height="18" fill="#34D399"/></g>
 </svg>
