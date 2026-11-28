@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="14" fill="#FFFFFF" stroke="#E2E8F0"/>
+  <line x1="165" y1="28" x2="165" y2="170" stroke="#E2E8F0"/>
+  <line x1="330" y1="28" x2="330" y2="170" stroke="#E2E8F0"/>
+  
+    <text x="82.5" y="92" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#0B1120">222</text>
+    <text x="82.5" y="140" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#475569">Total Contributions</text>
+    <text x="82.5" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#64748B">Jul 9, 2022 – Present</text>
+  <circle cx="247.5" cy="83" r="40" fill="none" stroke="#6D28D9" stroke-width="5"/>
+  <path d="M247.5 30 c6 6 9 11 4 16 c-3 -3 -6 -4 -8 -1 c-3 -5 0 -10 4 -15z" fill="#0E7490"/>
+  <text x="247.5" y="93" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#0B1120">1</text>
+  <text x="247.5" y="148" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" font-weight="700" fill="#6D28D9">Current Streak</text>
+  <text x="247.5" y="168" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#64748B">Nov 27, 2026</text>
+  
+    <text x="412.5" y="92" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="28" font-weight="700" fill="#0B1120">5</text>
+    <text x="412.5" y="140" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="14" fill="#475569">Longest Streak</text>
+    <text x="412.5" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif" font-size="12" fill="#64748B">Nov 19, 2026 – Nov 23, 2026</text>
+</svg>
